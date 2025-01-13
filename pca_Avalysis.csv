@@ -1,0 +1,7 @@
+,0
+covid_cleared_icu,"{'tobacco', 'copd', 'obesity', 'hypertension', 'renal_chronic', 'cardiovascular', 'asthma', 'diabetes', 'other_disease', 'inmsupr'}"
+covid_cleared_dead,"{'tobacco', 'copd', 'obesity', 'hypertension', 'renal_chronic', 'cardiovascular', 'asthma', 'diabetes', 'other_disease', 'inmsupr'}"
+mexico_cleared_extra_icu,"{'tobacco', 'copd', 'obesity', 'hypertension', 'renal_chronic', 'cardiovascular', 'asthma', 'diabetes', 'other_disease', 'inmsupr'}"
+mexico_cleared_extra_dead,"{'tobacco', 'copd', 'obesity', 'hypertension', 'renal_chronic', 'cardiovascular', 'asthma', 'diabetes', 'other_disease', 'inmsupr'}"
+mexico_cleared_icu,"{'tobacco', 'copd', 'obesity', 'hypertension', 'renal_chronic', 'cardiovascular', 'asthma', 'diabetes', 'other_disease', 'inmsupr'}"
+mexico_cleared_dead,"{'tobacco', 'copd', 'obesity', 'hypertension', 'renal_chronic', 'cardiovascular', 'asthma', 'diabetes', 'other_disease', 'inmsupr'}"
